@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "corded-evening-390420",
+  "private_key_id": "6f56f9200f6521ab2b0c26dd61f34391366c907b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUtATNL7zFaPYt\n/WtOXNeLliyTqhXCOg+emFgMTdHMuk9pOX2zR/d6gh/R9ESzliex9E+mTCki7p0b\nV7Y8txScqOgDC0EaUsgvu10LzN+R8FoGnakoRWO8AH8Qtc+SvjuiY3J+IHAr5VNH\n2BJ6S4mIy7YhvTkKFska7NThxBivq43bEn+z53x+4f9j5chvg/+csr+w0JSQFiuc\nKqYX6djmONoG/s+NigymRC77l4LE+rRdFpJRr7Vg7PCOG6LvHqb1oyJ7Sxth5r+H\n8iDr9sMH4MWRfkBzgZ0Xz+N5Zt5fYqjPzywivDD6a46qm7ZDHUHFkPrnMmdDr7t/\n9vRxmy/JAgMBAAECggEADDpUy//1I/XVWzj7oNZlB3peEdd1Z0ROZBFsKbmVOKYI\nTStihCU8agT43n7NWUlQpbdpbHe/O1RzizVxvaVPxcl5sb0apHBYX6gaNgS0i0UB\nmT+Z5dMGuVw08dQQkhDQyFSGaeT5qzMEjzeHKRPWclsLBimvka/UJrGxSPusk01Y\nZUtNeHU6uAl/GGnLa8JP3b0vsV9y3aFFjCYzuMtSWApDUfuutuppBP+W1JxCr8ts\nQognpcVDiiTlF1wbXibRcZPRFji7cDKIIYJ6vy7+HTQnRQaH98s8j0NKCT9Y+hSl\ndG81MMujvtwD0wYMauvOzJ8SG1QKsS5E/Z0x6GiRlQKBgQDuBg+uGUsoaZKK8JoE\n3B80D9hFO6fuSiUrFMMDK8WscXxtMNtxD2HiCs/MzDMJXlYVynrGqxiM6Z+Sp2kY\nTzwN9tJ6WHJgBNyJyXFdFwSivib/CK4+EAUqEIBs2SPwt1sSxkrs467N4x70cYCf\nNeTRWZ/+Ky5onObwNn6OF3dbBQKBgQDkxGmco0E59MKLU6JLt6ad8ThxntF9agHA\nIvMGDaGOiAx14Sa2pKEyml8TkpicHmDk5upPAsBEqkGiq4HBndnfBGz9C8MhajZn\no0sqMiGyptpdNVuHoTKII0aQhHS4EqeIjimuR2SkE+avUX2nF5+0iepQFdPC9JCZ\nyI33VzEE9QKBgA9p7RIFKUzQqWC9+/tcldi1PfgdyN4xhv6nNYm7B+4G21vm0g8c\nQ+ZzdMl6X8O3jDOVDSZYZhqZ9m90z+V3HBh7Z13s5Fs7dVym4uR4XSB81+GkGkSC\nnRMARpDF7wHjnc41cRyuEd/bWWHTB9VHlC3KdAXtne/AWWQs4z0oX95RAoGBAKlN\nyzOHhuBTih7+2F/dHMxLF5DPDw8YAw+lTeIu+F+5xC8BYFtPX5VJtg+QMK1pth/x\n3Xp3+L9YmZbAAxm9rt5kMhzcNZ9nMbhlm10xGMtUvMq6kHDCFdm28aRGwvLvq1le\njO5UG+FqcRFS6AFfdGxynRyD6uKfiNynFpn0x2x5AoGAdDQSdbZI3V2IofAPT7th\nGw7oerh4UbFd58VCowjPRGHCGdV9P/n/Of8/nqDLabWE6UpO8g4p480IJgc/AXP8\nksvsQsMHi2ygW0+DmfbxYs99syvld1Xvyc4ixdCjhtP3EftIki1zALhom68pgnFL\n1Vn2zLzI/l8iihC1CPrx0bY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-gke-service-account@corded-evening-390420.iam.gserviceaccount.com",
+  "client_id": "116830539791881869540",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-gke-service-account%40corded-evening-390420.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
