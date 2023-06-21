@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  credentials = file("<chemin_vers_votre_fichier_json_de_service_account>")
+  credentials = file("corded-evening-390420-6f56f9200f65.json")
   project     = "corded-evening-390420"
   region      = "europe-north1-a"
 }
