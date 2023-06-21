@@ -15,7 +15,7 @@ jobs:
 
     - name: Configuration de l'environnement
       run: |
-        echo "$GOOGLE_CREDENTIALS" > GKE
+        echo "$GOOGLE_CREDENTIALS" > corded-evening-390420-6f56f9200f65.json
         curl -LO https://releases.hashicorp.com/terraform/1.0.0/terraform_1.0.0_linux_amd64.zip
         unzip terraform_1.0.0_linux_amd64.zip
         sudo mv terraform /usr/local/bin/
